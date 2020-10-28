@@ -1,0 +1,12 @@
+{
+  "name": "iconsapp",
+  "displayName": "iconsapp",
+  "expo": {
+    "name": "iconsapp",
+    "slug": "iconsapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
